@@ -1,0 +1,13 @@
+.img__box {
+  display: flex;
+  max-height: 4000px;
+  flex-direction: column;
+}
+.loadImages__button {
+  padding: 15px 20px;
+  margin: 10px 800px;
+  background: rgb(243, 184, 243);
+  color: rgb(40, 40, 40);
+  border-radius: 10px;
+  border: none;
+}
